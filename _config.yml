@@ -1,10 +1,10 @@
 # Site settings
-title: Make It, MaMo! 
+title: My Blog
 header-img: img/home-bg.png
 email: mariasemailbox@gmail.com
 copyright_name: mmorrc
 description: > # this means to ignore newlines until "baseurl:"
-  Writing on Web Development by Maria Morris
+  Writing on Web Development 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mmorrc
